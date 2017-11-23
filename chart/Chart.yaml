@@ -1,0 +1,4 @@
+apiVersion: v1
+description: larsenfarm site
+name: larsenfarm
+version: 0.1.0
